@@ -24,7 +24,7 @@ th{
 td{
   text-align: center;
 }
-#teamRoster{
+#teamRoster li{
   list-style-type: square;
 }
 #teamRoster > li:first-child {
